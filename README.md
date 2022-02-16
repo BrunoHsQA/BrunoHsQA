@@ -1,7 +1,7 @@
 ### Hello There 😄
-🌱 I’m currently learning JavaScript <br>
+🌱 I’m currently learning JavaScript,HTML and CSS <br>
 🤔 I’m looking for help with Native React and PHP <br> <br>
-⚡ Fun fact: sharks "attack" a submarine cable all days <br>
+⚡ Fun fact: Sharks "attack" a submarine cable all days <br>
 
 <!--
 **DevBrunohs/DevBrunohs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
