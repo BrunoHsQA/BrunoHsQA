@@ -1,8 +1,7 @@
 ### Hello There 😄
 My name is Bruno, Brazilian passionate about technology and games. 
 
-🌱 I’m currently learning JavaScript, HTML, CSS, JAVA and Python <br>
-🤔 I’m looking for help with Native React and PHP <br> <br>
+🌱 I'm learning to be a QA tester using python, java and JavaScript <br> <br>
 ⚡ Fun fact: Sharks "attack" a submarine cable all days <br>
 
 
