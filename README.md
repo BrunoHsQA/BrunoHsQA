@@ -5,10 +5,6 @@ My name is Bruno, Brazilian passionate about technology and games.
 ⚡ Fun fact: Sharks "attack" a submarine cable all days <br>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunoHsQA&show_icons=true&theme=tokyonight)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoHsQA&layout=compactshow_icons=true&theme=tokyonight)](https://github.com/BrunoHsQA/github-readme-stats)
 
 
 <a href="https://www.linkedin.com/in/devbrunohs/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
